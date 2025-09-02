@@ -42,7 +42,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/instarecon.git
+   git clone https://github.com/Faizee-Asad/InstaRecon.git
    cd instarecon
    ```
 
