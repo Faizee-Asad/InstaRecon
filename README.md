@@ -4,15 +4,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)
 
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/instarecon.svg)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/instarecon.svg)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/instarecon.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Security](https://img.shields.io/badge/security-ethical%20use%20only-red.svg)
-
 **InstaRecon** is a powerful Instagram Open Source Intelligence (OSINT) tool designed for cybersecurity professionals, penetration testers, and ethical hackers to gather publicly available information from Instagram profiles.
 
 ## ⚠️ **IMPORTANT LEGAL DISCLAIMER**
