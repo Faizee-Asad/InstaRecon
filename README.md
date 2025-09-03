@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 - **Issues**: Please use [GitHub Issues](https://github.com/Faizee-Asad/InstaRecon/issues)
-- **Discussions**: Use [GitHub Discussions](https://github.com/Faizee-Asad/instarecon/discussions) for questions
+- **Discussions**: Use [GitHub Discussions](https://github.com/Faizee-Asad/InstaRecon/discussions/) for questions
 - **Security**: Report security issues privately via email
 
 ---
