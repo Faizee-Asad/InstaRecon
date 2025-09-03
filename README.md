@@ -85,7 +85,7 @@ python instarecon.py -u username -s your_session_id --debug
 4. Find the cookie named `sessionid`
 5. Copy the **Value** field
 
-![Session ID Guide](https://github.com/user-attachments/assets/d975c2cb-07c7-42e0-8a8a-15203d00d687)
+![Session ID Guide](#)
 <img width="1920" height="1080" alt="Session" src="https://github.com/user-attachments/assets/d975c2cb-07c7-42e0-8a8a-15203d00d687" />
 
 
