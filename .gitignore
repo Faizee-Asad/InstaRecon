@@ -140,3 +140,7 @@ Thumbs.db
 # Session files (security)
 sessions/
 *.session
+
+# source_code
+main_instarecon.py
+protect_source_code.md
